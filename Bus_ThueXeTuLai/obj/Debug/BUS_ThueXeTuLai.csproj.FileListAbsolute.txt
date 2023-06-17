@@ -1,0 +1,18 @@
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\Bus_ThueXeTuLai.dll
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\Bus_ThueXeTuLai.pdb
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\DAL_ThueXeTuLai.dll
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\ET_ThueXeTuLai.dll
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\DAL_ThueXeTuLai.pdb
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\ET_ThueXeTuLai.pdb
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\obj\Debug\BUS_ThueXeTuLai.csprojResolveAssemblyReference.cache
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\obj\Debug\Bus_ThueXeTuLai.dll
+C:\Users\HUAWEI\Documents\Visual Studio 2015\Projects\DoAnXeTuLai\Bus_ThueXeTuLai\obj\Debug\Bus_ThueXeTuLai.pdb
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\Bus_ThueXeTuLai.dll
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\Bus_ThueXeTuLai.pdb
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\DAL_ThueXeTuLai.dll
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\ET_ThueXeTuLai.dll
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\DAL_ThueXeTuLai.pdb
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\bin\Debug\ET_ThueXeTuLai.pdb
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\obj\Debug\BUS_ThueXeTuLai.csprojResolveAssemblyReference.cache
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\obj\Debug\Bus_ThueXeTuLai.dll
+D:\lapTrinhUngDung\DoAnXeTuLai\Bus_ThueXeTuLai\obj\Debug\Bus_ThueXeTuLai.pdb
